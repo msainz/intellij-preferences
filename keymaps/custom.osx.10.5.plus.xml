@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="Custom Mac OS X 10.5+" parent="Mac OS X 10.5+">
-  <action id="SplitHorizontally">
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta F12" />
     <keyboard-shortcut first-keystroke="control meta alt H" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="control meta alt S" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="control meta alt V" />
