@@ -36,3 +36,4 @@ disabled_plugins.txt
 options/dataSources.*
 options/uml.xml
 tools/
+shelf
