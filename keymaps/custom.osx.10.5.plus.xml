@@ -9,9 +9,17 @@
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="shift meta L" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt F7" />
+    <keyboard-shortcut first-keystroke="control meta alt U" />
+  </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta F12" />
     <keyboard-shortcut first-keystroke="control meta alt H" />
+  </action>
+  <action id="Jdbc.OpenConsole">
+    <keyboard-shortcut first-keystroke="shift meta F10" />
+    <keyboard-shortcut first-keystroke="control meta alt D" />
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="control meta alt S" />
